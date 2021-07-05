@@ -1,0 +1,10 @@
+C:\Users\sarpe\source\repos\Rand\Rand\bin\Debug\Rand.exe.config
+C:\Users\sarpe\source\repos\Rand\Rand\bin\Debug\Rand.exe
+C:\Users\sarpe\source\repos\Rand\Rand\bin\Debug\Rand.pdb
+C:\Users\sarpe\source\repos\Rand\Rand\obj\Debug\Rand.csproj.AssemblyReference.cache
+C:\Users\sarpe\source\repos\Rand\Rand\obj\Debug\Rand.Form1.resources
+C:\Users\sarpe\source\repos\Rand\Rand\obj\Debug\Rand.Properties.Resources.resources
+C:\Users\sarpe\source\repos\Rand\Rand\obj\Debug\Rand.csproj.GenerateResource.cache
+C:\Users\sarpe\source\repos\Rand\Rand\obj\Debug\Rand.csproj.CoreCompileInputs.cache
+C:\Users\sarpe\source\repos\Rand\Rand\obj\Debug\Rand.exe
+C:\Users\sarpe\source\repos\Rand\Rand\obj\Debug\Rand.pdb
